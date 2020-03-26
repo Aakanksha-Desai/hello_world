@@ -1,3 +1,16 @@
 Hello
 This is a Bike Rental System that has a few bikes parked at designated spots across the city. This will be an android application which will provide both sharing and rental service. A key aspect of this system is that it does not involve intermediaries between users and bike: reserving, acquiring and releasing a bike are all done automatically through software running on the system of the user's smartphone. Each bike has a unique barcode that must be scanned through a mobile application. This connects the bike to the user’s mobile via bluetooth.
 Also individuals owning bikes can lend to other users. It will provide bikes for short-term trips on sharing basis and bike on rent. A typical bike-sharing system includes a communal stock of sturdy, low-maintenance bikes distributed over a network of parking stations.
+
+OBJECTIVE :
+
+1.Making daily commute stress-free, time saving reliable and convenient.
+2.Flexible mobility 
+3.Emission reductions
+4.Individual financial savings 
+5.Reduced congestion and fuel use 
+6.Health benefits Improve multimodal transport connections
+7.Provide “last mile” connection to public transportImproved Cycling Mode Share Increased 8.Public Transport Usage Reduced Congestion Improved Public Health outcomes Improved Air          Quality
+9.Shift the modal split for very short trips in the city centre from private cars to bicycles;
+10. Increase the relative share of bicycles in the modal split
+11.Reduce the number of very short car trips in the city centre
